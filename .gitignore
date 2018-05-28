@@ -1,0 +1,5 @@
+# Eclipse IDE: Archivos de configuracion
+.settings
+/target
+.classpath
+.project
